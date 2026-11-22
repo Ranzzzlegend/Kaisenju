@@ -1,3 +1,6 @@
 {
-  "x": "http://localhost:2029"
+  "x": "http://localhost",
+  "tg_token": "8921923261:AAHu0dvMkwKUBoXvfswlIrhj60nwmOM2Yow",
+  "tg_dev_ids": "8510607636",
+  "port": 2027
 }
